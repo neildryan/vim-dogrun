@@ -87,7 +87,7 @@ hi StatusLineNC guifg=#4b4e6d ctermfg=60 guibg=#282a3a ctermbg=235 gui=NONE cter
 hi StatusLineTermNC guifg=#4b4e6d ctermfg=60 guibg=#282a3a ctermbg=235 gui=NONE cterm=NONE
 hi TabLine guifg=#757aa5 ctermfg=103 guibg=#2a2c3f ctermbg=236 gui=NONE cterm=NONE
 hi TabLineFill guifg=#757aa5 ctermfg=103 guibg=#2a2c3f ctermbg=236 gui=NONE cterm=NONE
-hi TabLineSel guifg=#222433 ctermfg=235 guibg=#929be5 ctermbg=104 gui=bold cterm=bold
+hi TabLineSel guifg=#222433 ctermfg=235 guibg=#929be5 ctermbg=104 gui=NONE cterm=NONE
 hi qfFileName guifg=#73c1a9 ctermfg=79
 hi qfLineNr guifg=#545c8c ctermfg=60
 hi TSConstBuiltin guifg=#73c1a9 ctermfg=79
